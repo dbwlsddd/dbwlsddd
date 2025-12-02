@@ -1,26 +1,21 @@
-# 💻 dbwlsddd
-
-### 🚀 PLM Solution Developer & Future ML Engineer
-
----
-
-### 🛠️ Tech Stack & Skills
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+# 🚀 dbwlsddd | PLM Solution Developer & Future ML Engineer
 
 ---
 
 ### 💼 Career & Education
 
-| Category | Detail |
-| :--- | :--- |
-| **Current Role** | PLM Solution Developer @ **OSANG JAIEL** (2025.12 - Present) |
-| **Education** | Computer Systems Engineering @ **Inha Technical College** (2023.03 - 2026.02, Expected B.S.) |
-| **Core Coursework** | C, Java, Python Programming, Introduction to ML, Database |
+* **PLM Solution Developer** @ **OSANG JAIEL** (2025.12 - Present)
+* **Computer Systems Engineering** @ **Inha Technical College** (2023.03 - 2026.02, Expected B.S.)
+    * **Core Coursework:** C, Java, Python Programming, Introduction to ML, Database
+
+---
+
+### 🛠️ Key Technology Focus
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -30,16 +25,9 @@
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbwlsddd&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&count_private=true" alt="dbwlsddd's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbwlsddd&theme=gruvbox&hide_border=true&mode=weekly" alt="GitHub Streak" />
-</p>
-
----
-
-### 📧 Contact
+### 🔗 Projects & Contact
 
 * **E-mail**: uj2173@gmail.com
+* **Private Portfolio Access**: Project code and detailed documentation are managed in private repositories. Please request access via email for a full review.
+
+---
