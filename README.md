@@ -1,16 +1,37 @@
-## Hi there 👋
+# dbwlsddd
 
-<!--
-**dbwlsddd/dbwlsddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 PLM Solution Developer & Future ML Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Position
+
+PLM Solution Developer
+@ **OSANG JAIEL**
+(2025.12 - Present)
+
+---
+
+### 🎓 Education
+
+Computer Systems Engineering
+@ **Inha Technical College**
+(2023.03 - 2026.02, Expected B.S.)
+
+---
+
+### 🌱 Vision
+
+Actively building system development skills while training to become an **ML Engineer** focused on data-driven intelligence.
+
+---
+
+### 🔗 Contact & Metrics
+
+* **E-mail**: uj2173@gmail.com
+
+---
+
+### 📖Top Languages Card
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwlsddd&layout=compact&langs_count=5&theme=default&hide_title=true)
